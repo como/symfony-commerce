@@ -5,6 +5,12 @@ Welcome to the Symfony Commerce Edition - a fully-functional Symfony2
 distribution based on the standard edition designed for agile e-commerce development. If you want
 to learn more about the features included, see the "What's Inside?" section.
 
+Key Objectives
+---------------
+* Provide an out-of-the box platform for advanced e-commerce development with pre-configured project and community bundles.
+* Provide an extremely rich library of commerce Entities to serve as a baseline for generic e-commerce business logic.
+* Work in tandem with the Symfony CMF project (https://github.com/symfony-cmf/symfony-cmf) and become its e-commerce arm.
+
 
 What's inside?
 ---------------
