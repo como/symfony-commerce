@@ -37,4 +37,4 @@ The Symfony Commerce Edition comes pre-configured with the following bundles:
 * **SensioGeneratorBundle** (in dev/test env) - Adds code generation capabilities
   ([documentation](http://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html))
 
-Enjoy!
+Merci!
