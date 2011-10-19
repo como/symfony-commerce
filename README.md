@@ -8,7 +8,7 @@ to learn more about the features included, see the "What's Inside?" section.
 
 What's inside?
 ---------------
-The Symfony Standard Edition comes pre-configured with the following bundles:
+The Symfony Commerce Edition comes pre-configured with the following bundles:
 	
 * **ComoPointOfSaleBundle** (Coming Soon)
 * **ComoTransactionBundle** (Coming Soon)
