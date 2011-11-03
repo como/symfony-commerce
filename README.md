@@ -16,14 +16,13 @@ What's inside?
 ---------------
 The Symfony Commerce Edition comes pre-configured with the following bundles:
 	
-* **ComoPointOfSaleBundle** (Coming Soon)
-* **ComoTransactionBundle** (Coming Soon)
-* **ComoMerchandiseBundle** (Coming soon)
-* **ComoCatalogueBundle** (Coming Soon)
-* **ComoCustomerBundle**  (Coming Soon)
-* **ComoPromoBundle** (Coming Soon)
-* **ComoShippingBundle** (Coming Soon)
-* **ComoInventoryBundle** (Coming Soon)
+* **CoPointOfSaleBundle** (Coming Soon)
+* **CoTransactionBundle** (Coming Soon)
+* **CoMerchandiseBundle** (Coming soon)
+* **CoCustomerBundle**  (Coming Soon)
+* **CoPromoBundle** (Coming Soon)
+* **CoShippingBundle** (Coming Soon)
+* **CoInventoryBundle** (Coming Soon)
 * **FrameworkBundle** - The core Symfony framework bundle
 * **SensioFrameworkExtraBundle** - Adds several enhancements, including template
   and routing annotation capability ([documentation](http://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/index.html))
